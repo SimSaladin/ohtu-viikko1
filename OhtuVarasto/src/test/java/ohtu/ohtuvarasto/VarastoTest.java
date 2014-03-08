@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class VarastoTest {
+ublic class VarastoTest {
 
     Varasto varasto;
     double vertailuTarkkuus = 0.0001;
